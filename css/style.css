@@ -28,7 +28,7 @@ body, p {
     top: 0;
     left: 0;
     width: 300px;
-    height: 100vh;
+    height: 100%;
     background-color: #151515;
     overflow: hidden;
 }
@@ -73,11 +73,11 @@ body, p {
 .copyright {
 	background-color: #FD501F;
 	color: #fff;
-	padding: 20px;
+	padding: 15px;
 	text-align: center;
     position: absolute;
-    bottom: 0;
     left: 0;
+    bottom: 0;
     width: 100%;
 }
 .copyright p {
