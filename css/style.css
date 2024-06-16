@@ -33,7 +33,7 @@ body, p {
     overflow: hidden;
 }
 
-@media only screen and (max-width: 991.98px) {
+@media only screen and (max-width: 1199.98px) {
     .left-side {
         width: 260px;
     }
@@ -94,7 +94,7 @@ body, p {
 }
 
 .right-content {
-    padding: 50px;
+    padding: 50px 20px;
 }
 .content {
     display: none;
